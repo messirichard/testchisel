@@ -1,0 +1,19 @@
+{
+  "generator-chisel": {
+    "config": {
+      "name": "Cobaaja",
+      "author": "richard",
+      "projectType": "wp-with-fe",
+      "nameSlug": "cobaaja",
+      "nameCamel": "Cobaaja",
+      "chiselVersion": "0.16.1",
+      "has_jquery": true,
+      "has_jquery_vendor_config": true
+    },
+    "pages": [
+      "Team",
+      "Home",
+      "cokibnu"
+    ]
+  }
+}
